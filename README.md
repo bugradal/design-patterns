@@ -1,2 +1,2 @@
 # design-patterns
-Design Patterns Examples
+Design Pattern Examples
